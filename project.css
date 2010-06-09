@@ -1,0 +1,17 @@
+body { margin-top: 1.0em; font-family: "Helvetica Neue,Helvetica,Arial,FreeSans"; color: #000000; }
+
+h1, h2, h3, a { color: #386CBD; }
+h1 { font-size: 3.8em; margin-bottom: 3px; letter-spacing: -3px; }
+h1 .small, h1 .small a { font-weight: 100; color: #c2c2c2;}
+h1 .small { display: block; font-size: 0.6em; }
+h1 a { text-decoration: none }
+h2 { font-size: 1.5em;  }
+h3 { text-align: center; }
+pre { background: #000; color: #fff; padding: 15px;}
+hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+
+.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+.download { float: right; }
+.footer { text-align:center; padding-top:30px; font-style: italic; }
+
+#container { margin: 0 auto; width: 700px; }
